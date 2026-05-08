@@ -1,0 +1,108 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "Our Story",
+    "menu": "Menu",
+    "howItWorks": "How It Works",
+    "reviews": "Reviews",
+    "contact": "Contact"
+  },
+  "hero": {
+    "title": "The Excellence of Handmade Dumplings",
+    "subtitle": "Lydmila Papyan's tradition meets Italian taste",
+    "cta": "Discover the Taste"
+  },
+  "about": {
+    "title": "The Story of Lydmila Papyan",
+    "content": "Lydmila Papyan was born with a passion for cooking passed down through generations. Each of her dishes tells a story of tradition, care, and love for genuine ingredients. Her skilled hands bring to life pelmeni, khinkali, and vareniki that unite the authenticity of original recipes with the refinement of the Italian table. Only natural ingredients, carefully selected, for a culinary experience that warms the heart."
+  },
+  "menu": {
+    "title": "Our Artisan Specialties",
+    "categories": {
+      "pelmeni": {
+        "name": "Classic Pelmeni",
+        "description": "Little treasures of meat, wrapped in thin and delicate pasta",
+        "ingredients": "Beef, pork, onion, spices",
+        "price": "€12.00"
+      },
+      "khinkali": {
+        "name": "Khinkali",
+        "description": "A bouquet of Caucasian flavors, rich and juicy",
+        "ingredients": "Beef, lamb, herbs, broth",
+        "price": "€15.00"
+      },
+      "vareniki": {
+        "name": "Sweet Vareniki",
+        "description": "Sweetness and tradition in a soft embrace",
+        "ingredients": "Ricotta, cherries, vanilla sugar",
+        "price": "€11.00"
+      }
+    },
+    "order": "Order Now"
+  },
+  "howItWorks": {
+    "title": "How the Order Works",
+    "steps": [
+      {
+        "title": "Choose Your Products",
+        "description": "Browse our menu and select your favorite specialties."
+      },
+      {
+        "title": "Contact Us",
+        "description": "Send your order via WhatsApp, Telegram, or the contact form."
+      },
+      {
+        "title": "Fresh Preparation",
+        "description": "We prepare everything by hand with fresh ingredients, just like home."
+      },
+      {
+        "title": "Home Delivery",
+        "description": "Receive your dumplings directly at your home, ready to enjoy."
+      }
+    ]
+  },
+  "reviews": {
+    "title": "What They Say About Us",
+    "items": [
+      {
+        "name": "Marco R.",
+        "text": "Lydmila's pelmeni are incredible! You can feel all the love and care in the preparation. An authentic experience.",
+        "rating": 5
+      },
+      {
+        "name": "Sofia G.",
+        "text": "Finally real khinkali in Italy! The broth inside is a real surprise. Highly recommended.",
+        "rating": 5
+      },
+      {
+        "name": "Alessandro M.",
+        "text": "The sweet vareniki took me back to my childhood. A delightful discovery.",
+        "rating": 5
+      }
+    ]
+  },
+  "contact": {
+    "title": "Order Your Delights Now",
+    "subtitle": "We are here to bring authentic taste directly to your home",
+    "form": {
+      "name": "Name",
+      "phone": "Phone",
+      "email": "Email",
+      "message": "Your Order",
+      "placeholder": "Write your order here...",
+      "submit": "Send Order"
+    },
+    "whatsapp": "Order via WhatsApp",
+    "telegram": "Order via Telegram",
+    "social": "Follow us on social media"
+  },
+  "footer": {
+    "rights": "© 2026 Lydmila Papyan. All rights reserved.",
+    "handmade": "Handmade with love"
+  },
+  "language": {
+    "it": "Italiano",
+    "en": "English",
+    "ru": "Русский"
+  }
+}
